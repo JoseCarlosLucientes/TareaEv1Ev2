@@ -1,0 +1,24 @@
+-classpath
+'C:/Users/José/.m2/repository/unknown/binary/AbsoluteLayout/SNAPSHOT/AbsoluteLayout-SNAPSHOT.jar;C:/Users/José/.m2/repository/com/toedter/jcalendar/1.4/jcalendar-1.4.jar'
+-encoding
+'UTF-8'
+-protected
+-source
+'19'
+-sourcepath
+'C:/Users/José/Documents/NetBeansProjects/HabanaHotel/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/José/Documents/NetBeansProjects/HabanaHotel/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'HabanaHotel 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'HabanaHotel 1.0-SNAPSHOT API'
